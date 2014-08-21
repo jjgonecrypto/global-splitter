@@ -1,6 +1,6 @@
 {
   "name": "global-splitter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "justin j. moses",
   "repository": "https://github.com/justinjmoses/global-splitter.git",
   "description": "CLI tool to split out top-level global definitions within files",
