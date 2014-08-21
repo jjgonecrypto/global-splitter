@@ -22,7 +22,11 @@ Third.File.Of.One = function () {
 };
 ```
 
-Splits it into three files
+Install via `npm install global-splitter`
+
+Then run `global-splitter test/testdata.js`
+
+This will create three files
 
 __output/Many.js__
 ```javascript
