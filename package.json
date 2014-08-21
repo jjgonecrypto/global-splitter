@@ -4,7 +4,7 @@
   "description": "CLI tool to split out top-level global definitions within files",
   "main": "lib/cli.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test/*.spec.js"
   },
   "author": "",
   "license": "ISC",
