@@ -1,0 +1,15 @@
+{
+  "name": "global-splitter",
+  "version": "0.0.1",
+  "description": "CLI tool to split out top-level global definitions within files",
+  "main": "lib/cli.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
