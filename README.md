@@ -24,7 +24,7 @@ Third.File.Of.One = function () {
 
 Install via `npm install global-splitter`
 
-Then run `global-splitter test/testdata.js`
+Then run `./node_modules/.bin/global-splitter test/testdata.js`
 
 This will create three files
 
