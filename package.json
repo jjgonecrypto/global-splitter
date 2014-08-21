@@ -1,13 +1,15 @@
 {
   "name": "global-splitter",
   "version": "0.0.1",
+  "author": "justin j. moses",
+  "repository": "https://github.com/justinjmoses/global-splitter.git",
   "description": "CLI tool to split out top-level global definitions within files",
-  "main": "lib/cli.js",
+  "main": "lib/splitter.js",
   "scripts": {
     "test": "mocha test/*.spec.js"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
+  "bin": "lib/cli.js",
   "devDependencies": {
     "chai": "^1.9.1",
     "mocha": "^1.21.4"
