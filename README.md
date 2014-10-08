@@ -60,3 +60,9 @@ __output/Others.js__
 
 module.exports = {}
 ```
+
+Options
+-------
+
+* Can include footer file `includes/footer.hbs` which supports the following values:
+    * `fileName` of the output file
